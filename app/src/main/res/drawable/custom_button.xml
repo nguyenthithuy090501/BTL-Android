@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+<!--Shape liên quan tới hình dạng-->
+<!--    Solid liên quan tới màu-->
+    <solid android:color="@color/teal_700"/>
+    <corners android:radius="50dp"/>
+</shape>
